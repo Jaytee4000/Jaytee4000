@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tjumukoro95)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=flat&logo=youtube)](https://youtu.be/0FkxOB4j2aA)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:terryjosephumukoro95@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download-CV-orange?style=flat&logo=adobeacrobatreader)]((https://github.com/Jaytee4000/Jaytee4000/blob/main/Terry_Joseph-Umukoro_CV.pdf))
+[![Download CV](https://img.shields.io/badge/Download-CV-orange?style=flat&logo=adobeacrobatreader)](https://github.com/Jaytee4000/Jaytee4000/blob/main/Terry_Joseph-Umukoro_CV.pdf)
+
 
 ---
 
