@@ -1,4 +1,4 @@
-# Hi, I'm Terry Joseph-Umukoro 👋
+# Hi, I'm Terry Joseph-Umukoro 
 
 **Data Analyst | Product & Business Analytics | Remote**
 
@@ -10,20 +10,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Data Analyst with hands-on experience in **product analytics, market research, and business intelligence**. I transform raw data into clear, actionable insights through interactive dashboards and visual storytelling.
 
 **Key Highlight:** Contributed data insights to **TheRoots** — an African diaspora language learning app — helping prioritise languages and shape gamification features based on user research.
 
-- 🎓 **AltSchool Africa** – Diploma in Data Analysis (Distinction) | 2024–2025
-- 📊 **E-commerce Analytics** – Built interactive dashboards tracking revenue, customer behaviour, and seasonal trends
-- 🌍 **Location:** Lokoja, Nigeria (Available for remote work across time zones)
-- 📱 **Contact:** +234 811-884-7589
+-  **AltSchool Africa** – Diploma in Data Analysis (Distinction) | 2024–2025
+-  **E-commerce Analytics** – Built interactive dashboards tracking revenue, customer behaviour, and seasonal trends
+-  **Location:** Lokoja, Nigeria (Available for remote work across time zones)
+-  **Contact:** +234 811-884-7589
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 | Category | Skills |
 |----------|--------|
@@ -35,37 +35,37 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📦 [E-Commerce Sales Performance Dashboard](https://github.com/Jaytee4000/ecommerce-sales-performance-dashboard)
+###  [E-Commerce Sales Performance Dashboard](https://github.com/Jaytee4000/ecommerce-sales-performance-dashboard)
 > **Interactive Excel dashboard analysing 155 baskets from Kaggle e-commerce data**
 
 **Key Insights:**
-- 👥 72 customers (81% male), average age 35
-- 📅 Peak shopping days: Monday & Saturday
-- 📈 May sales significantly higher than June
-- 🛒 Top products and customer segments identified
+-  72 customers (81% male), average age 35
+-  Peak shopping days: Monday & Saturday
+-  May sales significantly higher than June
+-  Top products and customer segments identified
 
 **Improvements Made:** Fixed age sorting, cleaner colour scheme, better chart types, logical dashboard flow
 
-[▶️ Watch Full Walkthrough](https://youtu.be/0FkxOB4j2aA)
+[ Watch Full Walkthrough](https://youtu.be/0FkxOB4j2aA)
 
 ---
 
-### 🌍 [TheRoots Market Research](https://github.com/Jaytee4000/TheRoots-Market-Research)
+###  [TheRoots Market Research](https://github.com/Jaytee4000/TheRoots-Market-Research)
 > **Market research for an African diaspora language learning app (Hausa focus)**
 
 **My Contributions:**
-- 📋 Conducted user interest surveys to validate product-market fit
-- 🔍 Analysed survey data to determine priority language based on diaspora population and interest levels
-- 🧹 Cleaned and organised primary research data for decision-making
-- 💡 Provided insights that shaped product roadmap (community + gamification features)
+-  Conducted user interest surveys to validate product-market fit
+-  Analysed survey data to determine priority language based on diaspora population and interest levels
+-  Cleaned and organised primary research data for decision-making
+-  Provided insights that shaped product roadmap (community + gamification features)
 
 **Impact:** Helped TheRoots prioritise Hausa as the first language and build features users actually wanted
 
 ---
 
-### 📊 [Sales Data Analysis Portfolio](https://github.com/Jaytee4000/sales-data-analysis)
+###  [Sales Data Analysis Portfolio](https://github.com/Jaytee4000/sales-data-analysis)
 > **Comprehensive sales analysis using Excel and Power BI**
 
 - Analysed sales datasets to identify revenue trends, top-performing products, and seasonal patterns
@@ -74,7 +74,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-### 💻 [SQL Case Studies](https://github.com/Jaytee4000/sql-case-studies)
+###  [SQL Case Studies](https://github.com/Jaytee4000/sql-case-studies)
 > **Collection of real-world SQL exercises and case studies**
 
 - Database queries, joins, aggregations, and filtering
@@ -83,7 +83,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### Data Support & Finance Officer
 **SMARKSTORES** | July 2022 – December 2024 | Lokoja, Nigeria
@@ -101,7 +101,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Qualification | Institution | Year | Grade |
 |---------------|-------------|------|-------|
@@ -110,7 +110,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
@@ -121,7 +121,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaytee4000&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
@@ -130,16 +130,16 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/tjumukoro95](https://linkedin.com/in/tjumukoro95)
-- 📧 **Email:** [terryjosephumukoro95@gmail.com](mailto:terryjosephumukoro95@gmail.com)
-- 📱 **Phone:** +234 811-884-7589
-- 📄 **CV:** [Download PDF](https://github.com/Jaytee4000/Jaytee4000/blob/main/cv/Terry-Joseph-Umukoro-CV.pdf)
+-  **LinkedIn:** [linkedin.com/in/tjumukoro95](https://linkedin.com/in/tjumukoro95)
+-  **Email:** [terryjosephumukoro95@gmail.com](mailto:terryjosephumukoro95@gmail.com)
+-  **Phone:** +234 811-884-7589
+-  **CV:** [Download PDF](https://github.com/Jaytee4000/Jaytee4000/blob/main/cv/Terry-Joseph-Umukoro-CV.pdf)
 
 ---
 
-## ⭐ Open to Opportunities
+##  Open to Opportunities
 
 **Available for:**
 - ✅ Remote Data Analyst roles
