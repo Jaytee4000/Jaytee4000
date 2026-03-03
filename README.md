@@ -136,7 +136,7 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 -  **LinkedIn:** [linkedin.com/in/tjumukoro95](https://linkedin.com/in/tjumukoro95)
 -  **Email:** [terryjosephumukoro95@gmail.com](mailto:terryjosephumukoro95@gmail.com)
 -  **Phone:** +234 811-884-7589
--  **CV:** [Download PDF](https://github.com/Jaytee4000/Jaytee4000/blob/main/cv/Terry-Joseph-Umukoro-CV.pdf)
+-  **CV:** [Download PDF](https://github.com/Jaytee4000/Jaytee4000/blob/main/Terry_Joseph-Umukoro_CV.pdf)
 
 ---
 
