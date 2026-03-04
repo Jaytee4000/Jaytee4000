@@ -1,6 +1,6 @@
 # Hi, I'm Terry Joseph-Umukoro 
 
-**Data Analyst | Product & Business Analytics | Remote**
+**Data Analyst | Product & Market Analytics | Remote**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jaytee4000&color=blue&style=flat)](https://github.com/Jaytee4000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tjumukoro95)
