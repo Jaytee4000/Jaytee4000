@@ -66,24 +66,6 @@ Data Analyst with hands-on experience in **product analytics, market research, a
 
 ---
 
-###  [Sales Data Analysis Portfolio](https://github.com/Jaytee4000/sales-data-analysis)
-> **Comprehensive sales analysis using Excel and Power BI**
-
-- Analysed sales datasets to identify revenue trends, top-performing products, and seasonal patterns
-- Built interactive dashboards for non-technical stakeholders
-- Performed data cleaning and transformation using Power Query
-
----
-
-###  [SQL Case Studies](https://github.com/Jaytee4000/sql-case-studies)
-> **Collection of real-world SQL exercises and case studies**
-
-- Database queries, joins, aggregations, and filtering
-- Subqueries, CTEs, and window functions
-- Relational database design and optimisation
-
----
-
 ##  Work Experience
 
 ### Data Support & Finance Officer
